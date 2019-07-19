@@ -1,7 +1,8 @@
 # Public-GitUpdated
 Corresponds to blog post on https://mnmapplications.com
 
-GitUpdated – Automating My Git Repository Maintenance
+GitUpdated – Automating My Git Repository Maintenance:
+
 https://mnmapplications.com/2019/07/19/gitupdated-automating-git-repository-maintenance/
 
 
