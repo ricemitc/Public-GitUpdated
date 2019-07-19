@@ -142,10 +142,10 @@ def getRepositoryUrl(repo):
     return remoteUrl
 
 
-# Gets the default branch of the current repository. 
 # Git commands used for this:
     # git remote show origin | grep "HEAD branch" | cut -d ":" -f 2
-    # git remote show https://github.com/ricemitc/GitUpdated.git
+    # git remote show https://github.com/ricemitc/Public-GitUpdated.git
+# Gets the default branch of the current repository. 
 def getDefaultBranch(repo, url):
     git = repo.git
     defaultBranchInfo = git.remote('show', url).split("\n")
