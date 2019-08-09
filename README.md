@@ -3,10 +3,10 @@
 GitUpdated: A Python script for easily managing, updating, and checking the status of multiple git repos at once. 
 
 This project is part of my Side Project Time Hack series on my blog at:
-https://mnmapplications.com/blog-posts/
+    https://mnmapplications.com/blog-posts/
 
 Read along with the blog post here:
-https://mnmapplications.com/2019/07/19/gitupdated-automating-git-repository-maintenance/
+    https://mnmapplications.com/2019/07/19/gitupdated-automating-git-repository-maintenance/
 
 
 ![GitUpdated Demo](https://i1.wp.com/mnmapplications.com/wp-content/uploads/2019/07/GitUpdated-Demo.gif?zoom=2&resize=600%2C600&ssl=1)
