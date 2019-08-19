@@ -37,7 +37,7 @@ def printSpace():
 def promptForLocation():
     rootLocation = ""
     location_list = createSuggestedPathList()
-    print(bcolors.HEADER, "Choose from common destionations, or enter your path manually:", bcolors.ENDC)
+    print(bcolors.HEADER, "Choose from common destinations, or enter your path manually:", bcolors.ENDC)
     
     # List all of the path options - formatted with colors / type
     index = 0
